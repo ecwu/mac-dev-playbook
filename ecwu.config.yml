@@ -1,0 +1,16 @@
+mas_installed_apps:
+  - { id: 1461452315, name: "貔貅记账" }
+  - { id: 425424353, name: "The Unarchiver" }
+  - { id: 441258766, name: "Magnet" }
+  - { id: 823766827, name: "OneDrive" }
+  - { id: 1484048379, name: "TencentMeeting" }
+  - { id: 1352778147, name: "Bitwarden" }
+  - { id: 1352778147, name: "Bitwarden" }
+
+dockitems_remove:
+  - Launchpad
+  - TV
+dockitems_persist:
+  - name: "Sublime Text"
+    path: "/Applications/Sublime Text.app/"
+    pos: 5

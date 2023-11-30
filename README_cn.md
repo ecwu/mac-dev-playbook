@@ -127,14 +127,14 @@ geerlingguy 的 [dotfiles](https://github.com/geerlingguy/dotfiles) 也会安装
 
 此外，还为各种应用和服务添加了一些其他首选项和设置。
 
-## Full / From-scratch setup guide
+## 完全 / 从头设置指南
 
 由于我使用这个 playbook 设置过大约 20 台不同的 Mac,所以写了一个 100% 从头开始的详细安装指南，便于自己参考(每个人的细节安装可能会有点不同)。
 可以在这里查看完全从头设置文档: [full-mac-setup.md](full-mac-setup.md).
 
-## Author
+## 作者
 
-This project was created by [Jeff Geerling](https://www.jeffgeerling.com/) (originally inspired by [MWGriffin/ansible-playbooks](https://github.com/MWGriffin/ansible-playbooks)).
+这个项目是由 [Jeff Geerling](https://www.jeffgeerling.com/) 创建（原始灵感来源于 [MWGriffin/ansible-playbooks](https://github.com/MWGriffin/ansible-playbooks)）.
 
 [badge-gh-actions]: https://github.com/geerlingguy/mac-dev-playbook/workflows/CI/badge.svg?event=push
 [link-gh-actions]: https://github.com/geerlingguy/mac-dev-playbook/actions?query=workflow%3ACI
